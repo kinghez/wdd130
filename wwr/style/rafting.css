@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-:root {
+:root{
     --primary-color: #282B31;
     --secondary-color: #5c946e;
     --accent-1-color: #30c5ff;
@@ -20,6 +20,10 @@
     --nav-hover-link-color: #D9BB41;
     --nav-hover-background-color: #282B31;
 }
+
+div .hero{
+    position: relative;
+} 
 
 .firstimg {
     display: block;
